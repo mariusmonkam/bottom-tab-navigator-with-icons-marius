@@ -1,7 +1,7 @@
 # botton-tab-navigator-with-icons
 react-native starter app with 4 screens button tab navigation with icons 
 
-this is a starter page of native app with 3 screen implement with react-navigation 
+this is a starter app of native app with 4 screens implement with react-navigation and react-native-vector-icons 
 These are the steps to follow to setup your react-native app project.
 #H2 Initializing The project
 1. `react-native init Project_Name`
